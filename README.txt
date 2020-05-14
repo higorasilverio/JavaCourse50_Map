@@ -1,0 +1,1 @@
+Working with Map<> collection to verify the amount of candidate votes.
